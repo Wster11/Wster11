@@ -1,6 +1,12 @@
 
 ### Hi there 👋
 
+
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=Wster11/Wster11)
+
+
+
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wster11&show_icons=true&icon_color=2f80ed&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
 
