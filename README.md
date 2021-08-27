@@ -2,7 +2,8 @@
 ### Hi there 👋
 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=Wster11/Wster11)
+![visitors](https://page-views.glitch.me/badge?page_id=wster11.visitor-badge)
+
 
 
 
