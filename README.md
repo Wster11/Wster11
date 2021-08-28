@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-![visitors](https://page-views.glitch.me/badge?page_id=wster11.visitor-badge)
+<!-- ![visitors](https://page-views.glitch.me/badge?page_id=wster11.visitor-badge) -->
 
 
 
