@@ -1,5 +1,5 @@
 
-### Hi there 👋
+### Hi 👋
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/Wster11/Wster11/main/assets/github-contribution-grid-snake.svg)              
