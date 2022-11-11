@@ -1,6 +1,9 @@
 
 ### Hi there 👋
 
+### My Github Contributions
+![](https://raw.githubusercontent.com/Wster11/Wster11/main/assets/github-contribution-grid-snake.svg)              
+
 
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=wster11.visitor-badge) -->
 
