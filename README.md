@@ -5,11 +5,8 @@
 ![](https://raw.githubusercontent.com/Wster11/Wster11/main/assets/github-contribution-grid-snake.svg)              
 
 
-<!-- ![visitors](https://page-views.glitch.me/badge?page_id=wster11.visitor-badge) -->
 
-
-
-
+![visitors](https://visitor-badge.vercel.app/page/wster11?color=blue)
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wster11&show_icons=true&icon_color=2f80ed&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
 
