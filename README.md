@@ -1,6 +1,5 @@
 
 ### Hi 👋
-![visitors](https://count.getloli.com/get/@wster11?theme=gelbooru)
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/Wster11/Wster11/main/assets/github-contribution-grid-snake.svg)              
