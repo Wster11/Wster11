@@ -1,5 +1,5 @@
 
-### Hi 👋
+### Hi <img src="https://raw.githubusercontent.com/thinkerou/thinkerou/master/wave.gif" width="30px"> 
 
 ### My Github Contributions
 ![](https://raw.githubusercontent.com/Wster11/Wster11/main/assets/github-contribution-grid-snake.svg)              
