@@ -1,5 +1,5 @@
 
-### Hi <img src="https://raw.githubusercontent.com/thinkerou/thinkerou/master/wave.gif" width="30px"> 
+### Hi 
         
 
 
